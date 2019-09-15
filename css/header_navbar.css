@@ -1,0 +1,21 @@
+.navbar-brand
+{
+	font-size: 3.5em;
+	font-family: 'Sniglet', cursive;
+	font-weight: bold;
+}
+
+.nav-item
+{
+	margin-left: 35px;
+	margin-right: 0px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color: rgba(255, 255, 255, 1);
+}
+
+.navbar
+{
+	padding-top: 0;
+}
