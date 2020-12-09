@@ -1,5 +1,5 @@
 # camagru
-Instagram-like website
+42 project, Instagram-like website
 
 
 FROM THE CAMAGRU PDF GUIDE
